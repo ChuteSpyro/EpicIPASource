@@ -31,7 +31,7 @@
               "com.apple.security.application-groups",
               "com.apple.developer.siri",
               "com.apple.developer.associated-domains",
-              "com.apple.developer.kernel.extended-virtual-adressing",
+              "com.apple.developer.kernel.extended-virtual-addressing",
               "com.apple.developer.kernel.increased-memory-limit",
               "aps-environment"
           ],
@@ -99,7 +99,7 @@
               "com.apple.security.application-groups",
               "com.apple.developer.siri",
               "com.apple.developer.associated-domains",
-              "com.apple.developer.kernel.extended-virtual-adressing",
+              "com.apple.developer.kernel.extended-virtual-addressing",
               "com.apple.developer.kernel.increased-memory-limit",
               "aps-environment"
           ],
