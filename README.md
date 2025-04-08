@@ -16,4 +16,4 @@ You can also add the source to AltStore for ease of use:
 
 <a href="altstore://source?url=https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/UnofficialEpicGamesIPASource.json"><img src="https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/Altstore.png" height="70"></a>
 &nbsp;
-[![AltStore Source](https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/Altstore.png)](altstore://source?url=https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/UnofficialEpicGamesIPASource.json)
+[![AltStore Source](https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/Altstore.png)](https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/UnofficialEpicGamesIPASource.json)
