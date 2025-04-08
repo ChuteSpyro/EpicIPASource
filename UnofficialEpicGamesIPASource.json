@@ -26,6 +26,20 @@
         "it": "Il futuro di Fortnite è qui. Sopravvivi fino alla fine nelle modalità Battaglia reale e Zero costruzioni, esplora e sopravvivi in LEGO Fortnite, raggiungi il traguardo con Rocket Racing o assisti a un concerto con il Festival di Fortnite. Gioca con gli amici a migliaia di isole gratuite realizzate dai creatori, tra cui deathrun, giochi gestionali, corse, sopravvivenza zombi e altro ancora! Unisciti alla community dei creatori e costruisci la tua isola con Unreal Editor per Fortnite (UEFN) o gli strumenti della modalità Creativa di Fortnite. Ogni isola di Fortnite ha una classificazione per età diversa, così potrai trovare quella più adatta a te e ai tuoi amici. Trovale tutte su Fortnite! Fortnite richiede una connessione a internet e supporta iPhone 11 o successivi e iPad con almeno 4 GB di RAM.",
         "tr": "Fortnite'ın geleceği geldi çattı. Battle Royale ve Sıfır İnşa'da hayatta kalan son oyuncu ol, Lego Fortnite'ta keşfe çık ve hayatta kal, Rocket Racing'de bitiş çizgisi için yarış veya Fortnite Festival'da kendi konserini ver. Arkadaşlarınla birlikte ölüm koşusu, tycoon, yarış, zombili hayatta kalma ve çok daha fazla türü içeren binlerce ücretsiz içerik üreticisi eseri adada oyna! İçerik üreticisi topluluğuna katıl ve Fortnite İçin Unreal Editor (UEFN) veya Fortnite Kreatif araçlarıyla kendi adanı oluştur. Her bir Fortnite adasının ayrı yaş derecelendirmesi vardır. Böylece hem senin hem de arkadaşların için en uygun oyunları bulabilirsin. Hepsi Fortnite'ta! Fortnite oynayabilmek için internet bağlantısı gerekir ve iPhone 11 veya üzeri modelleri ve en az 4 GB RAM'e sahip iPad modellerini destekler."
       },
+      "appPermissions": {
+          "entitlements": [
+              "com.apple.security.application-groups",
+              "com.apple.developer.siri",
+              "com.apple.developer.associated-domains",
+              "com.apple.developer.kernel.extended-virtual-adressing",
+              "com.apple.developer.kernel.increased-memory-limit",
+              "aps-environment"
+          ],
+           "privacy": {
+              "NSMicrophoneUsageDescription": "App uses the microphone for voice chat.",
+              "NSCameraUsageDescription": "App uses the camera."
+          }
+      },
       "iconURL": "https://cdn1.epicgames.com/item/fn/FN_Logo_512x512_1024x1024-0a19a924e7f61249ab0c76569abfdc31",
       "tintColor": "#818181",
       "category": "games",
@@ -79,6 +93,20 @@
         "pl": "Przyszłość Fortnite zaczyna się dziś. Zostań ostatnim graczem pozostałym przy życiu w Battle Royale i Zero Budowania, odkryj i przeżyj w LEGO Fortnite, pędź do mety z Rocket Racing lub zagraj koncert w Fortnite Festival. Razem ze znajomymi wypróbuj tysiące darmowych wysp stworzonych przez innych graczy, w tym skillruny, tycoony, wyścigi, survivale z zombie i nie tylko! Dołącz do społeczności twórców i stwórz własną wyspę przy użyciu Unreal Editora dla Fortnite (UEFN) lub narzędzi trybu kreatywnego. Każda wyspa Fortnite ma indywidualnie przypisaną klasyfikację wiekową, dzięki czemu znajdziesz taką, która będzie w sam raz dla ciebie i znajomych. Baw się w Fortnite! Fortnite wymaga połączenia z internetem i obsługuje iPhone 11 lub nowsze oraz iPady wyposażone w co najmniej 4 GB RAM.",
         "it": "Il futuro di Fortnite è qui. Sopravvivi fino alla fine nelle modalità Battaglia reale e Zero costruzioni, esplora e sopravvivi in LEGO Fortnite, raggiungi il traguardo con Rocket Racing o assisti a un concerto con il Festival di Fortnite. Gioca con gli amici a migliaia di isole gratuite realizzate dai creatori, tra cui deathrun, giochi gestionali, corse, sopravvivenza zombi e altro ancora! Unisciti alla community dei creatori e costruisci la tua isola con Unreal Editor per Fortnite (UEFN) o gli strumenti della modalità Creativa di Fortnite. Ogni isola di Fortnite ha una classificazione per età diversa, così potrai trovare quella più adatta a te e ai tuoi amici. Trovale tutte su Fortnite! Fortnite richiede una connessione a internet e supporta iPhone 11 o successivi e iPad con almeno 4 GB di RAM.",
         "tr": "Fortnite'ın geleceği geldi çattı. Battle Royale ve Sıfır İnşa'da hayatta kalan son oyuncu ol, Lego Fortnite'ta keşfe çık ve hayatta kal, Rocket Racing'de bitiş çizgisi için yarış veya Fortnite Festival'da kendi konserini ver. Arkadaşlarınla birlikte ölüm koşusu, tycoon, yarış, zombili hayatta kalma ve çok daha fazla türü içeren binlerce ücretsiz içerik üreticisi eseri adada oyna! İçerik üreticisi topluluğuna katıl ve Fortnite İçin Unreal Editor (UEFN) veya Fortnite Kreatif araçlarıyla kendi adanı oluştur. Her bir Fortnite adasının ayrı yaş derecelendirmesi vardır. Böylece hem senin hem de arkadaşların için en uygun oyunları bulabilirsin. Hepsi Fortnite'ta! Fortnite oynayabilmek için internet bağlantısı gerekir ve iPhone 11 veya üzeri modelleri ve en az 4 GB RAM'e sahip iPad modellerini destekler."
+      },
+      "appPermissions": {
+          "entitlements": [
+              "com.apple.security.application-groups",
+              "com.apple.developer.siri",
+              "com.apple.developer.associated-domains",
+              "com.apple.developer.kernel.extended-virtual-adressing",
+              "com.apple.developer.kernel.increased-memory-limit",
+              "aps-environment"
+          ],
+           "privacy": {
+              "NSMicrophoneUsageDescription": "App uses the microphone for voice chat.",
+              "NSCameraUsageDescription": "App uses the camera."
+          }
       },
       "iconURL": "https://cdn1.epicgames.com/item/fn/FN_Logo_512x512_1024x1024-0a19a924e7f61249ab0c76569abfdc31",
       "tintColor": "#818181",
@@ -134,6 +162,11 @@
         "pl": "Dołącz do imprezowej gry MMO typu battle royale z Fall Guys i zdobądź koronę jako ostatnia zwycięska fasolka. Wejdź do Blunderdome, aby zagrać w platformową Wolnoamerykankę, która gwarantuje dużą dawkę chaosu i świetnej zabawy. Rywalizacja i kooperacja: zmagaj się w rywalizacyjnych rozgrywkach dla wszystkich albo w wyzwaniach kooperacyjnych. Do Blunderdome wskoczysz nawet z trójką znajomych! Graj z ekipą: Fall Guys jest bezpłatne i obsługuje grę międzyplatformową. To oznacza, że możesz grać ze znajomymi z różnych platform i zapisywać na koncie Epic Games postępy z wielu urządzeń. Stale modyfikowana zawartość: gra nigdy się nie nudzi dzięki współpracom i aktualizacjom wprowadzającym do Blunderdome nowe stroje, przeszkody i sposoby gry. Personalizuj do woli: wybieraj kolory, wzory, stroje i plakietki. Świętuj wygrane nadzwyczajnymi cieszynkami i wyrażaj siebie emotkami! Fall Guys wymaga połączenia z internetem i obsługuje iPhone 11 lub nowsze oraz iPady wyposażone w co najmniej 4 GB RAM.",
         "it": "Tuffati in un party royale multigiocatore di massa con Fall Guys, sconfiggi tutti gli altri fagioli e conquista la corona. Entra a Ruzzolandia, dove ti aspetta un gioco platformer gratis per tutti, ricco di caos e tanto divertimento. Competitivo e cooperativo: rotola tra sfide competitive tutti contro tutti e cooperative, o affronta Ruzzolandia con altri 3 amici! Gioca con gli amici: Fall Guys supporta il cross-play, i gruppi multi-piattaforma e la progressione incrociata con l'account Epic Games. Contenuti sempre nuovi: il divertimento non finisce mai grazie a collaborazioni e aggiornamenti che portano nuovi costumi, ostacoli e modi di giocare. Totalmente personalizzabile: scegli tra una moltitudine di colori, motivi, costumi e targhette. Celebra le vittorie con festeggiamenti stravaganti e condividi il tuo stile con le emote! Fall Guys richiede una connessione a internet e supporta iPhone 11 o successivi e iPad con almeno 4 GB di RAM.",
         "tr": "Fall Guys ile devasa çok oyunculu bir parti kapışmasına katıl ve Crown'ı alan son Fasulye olmaya çalış. Kaosu ve yüksek yoğunluklu eğlenceyi çağıran, oynaması ücretsiz platform oyunu için Blunderdome'a gir. Rekabet ve İşbirliği: Rekabetçi oyunlarla işbirliği gerektiren mücadeleler arasında yuvarlan veya 3 arkadaşınla Blunderdome'a meydan oku! Arkadaşlarınla Oyna: Fall Guys, Epic Games hesabı aracılığıyla platformlar arası oynamayı, grupları ve ilerlemeyi destekliyor. Sürekli Değişen İçerik: Yeni kostümler, engeller ve oynama tarzları getiren yeni işbirlikleri ve oyun güncellemeleri sayesinde oyun daima yeniliklerle dolu. Olağanüstü Özelleştirme: Çok çeşitli renk, desen, kostüm ve isim levhaları arasından seçim yap. Gösterişli kutlamalarla zaferinin keyfini çıkar ve ifadelerle tarzını göster! Fall Guys oynayabilmek için internet bağlantısı gerekir ve iPhone 11 veya üzeri modelleri ve en az 4 GB RAM'e sahip iPad modellerini destekler."
+      },
+      "appPermissions": {
+           "privacy": {
+              "NSMicrophoneUsageDescription": "App uses the microphone for voice chat."
+          }
       },
       "iconURL": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/iOS-New-512x512_512x512-ff4ce9348fe2142316cb4434228d78eb",
       "tintColor": "#818181",
