@@ -12,5 +12,5 @@ You will find here the following IPAs:
 
 I will not published the Rocket League Sideswipe since the game is avaialble on the App Store outside the european union.
 
-You can also add the source to AltStore for ease of use:
+You can also add the source to AltStore for ease of use (Unfortunately AltStore may not succeed to install some gameas due to their size):
 https://raw.githubusercontent.com/ChuteSpyro/EpicIPASource/refs/heads/main/UnofficialEpicGamesIPASource.json
