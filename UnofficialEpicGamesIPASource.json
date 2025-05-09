@@ -68,6 +68,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "35.00.2",
+          "date": "2025-05-09T00:00:00.0000000Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ChuteSpyro/EpicGamesIPA/releases/download/Fortnite35.00.2/FortniteClient-IOS-Shipping_35.00.2.ipa",
+          "size": 475399168,
+          "minOSVersion": "17.6",
+          "buildVersion": "42262703.3.3"
+        },
+        {
           "version": "35.00",
           "date": "2025-05-02T00:00:00.0000000Z",
           "localizedDescription": "",
@@ -162,6 +171,15 @@
       ],
       "beta": true,
       "versions": [
+        {
+          "version": "35.00.2",
+          "date": "2025-05-09T00:00:00.0000000Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ChuteSpyro/EpicGamesIPA/releases/download/Fortnite35.00.2/FortniteClient-IOS-Shipping_35.00.2-Patched-AltStore.ipa",
+          "size": 475399168,
+          "minOSVersion": "17.6",
+          "buildVersion": "42262703.3.3"
+        },
         {
           "version": "35.00",
           "date": "2025-05-02T00:00:00.0000000Z",
