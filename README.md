@@ -14,3 +14,7 @@ I will not published the Rocket League Sideswipe since the game is avaialble on 
 
 You can also add the source to AltStore and SideStore for ease of use (Unfortunately AltStore and SideStore may not succeed to install some games due to their size mostly especially Fall Guys):
 https://raw.githubusercontent.com/ChuteSpyro/EpicGamesIPA/refs/heads/main/UnofficialEpicGamesIPASource.json
+
+
+# Disclaimer
+The original applications are the property of their respective owners, including but not limited to Epic Games Inc. The modifications provided here are solely for personal use, and the original applications must be legally obtained. Redistribution of these modified versions is done for educational purposes only, and no ownership of the original content is claimed.
