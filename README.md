@@ -18,10 +18,11 @@ https://raw.githubusercontent.com/ChuteSpyro/EpicGamesIPA/refs/heads/main/Unoffi
 
 ###  Disclaimer
 
-> This project is an independent modification of the Fortnite iOS client. All original assets, code, and intellectual property are owned by Epic Games, Inc.  
+> This project is an independent modification of the Fortnite and Fall Guys iOS clients. All original assets, code, and intellectual property are owned by their respective rights holders, including but not limited to Epic Games, Inc. and Mediatonic Limited.  
 >  
-> The modified files provided are **for educational and research purposes only**. No ownership is claimed over the original software. Users must **already own or have previously downloaded the original Fortnite application through official means** (such as the App Store) before accessing this modified version. This distribution is intended solely for those with legitimate access to the original software.  
+> The modified files provided are **for educational and research purposes only**. No ownership is claimed over the original software. Users must **already own or have previously downloaded the original applications through official means** (such as the App Store) before accessing these modified versions. This distribution is intended solely for those with legitimate access to the original software.  
 >  
 > By using or distributing these modifications, you agree that they are **not intended for commercial use** and are **provided “as is”, without any warranty**.  
 >  
-> This project is **not affiliated with or endorsed by Epic Games**. If you are a rights holder and believe your content is being misused, please contact us and the material will be promptly removed.
+> This project is **not affiliated with or endorsed by Epic Games, Mediatonic, or any other rights holder**. If you are a rights holder and believe your content is being misused, please contact us and the material will be promptly removed.
+
