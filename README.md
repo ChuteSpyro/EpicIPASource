@@ -1,19 +1,33 @@
- # Epic Games IPA
-Distributing Epic Games' IPA files for worldwide installation.
+### 📦 Available Downloads
 
-You will find here the following IPAs:
+Distributing modified and original Epic Games IPA files for installation on iOS devices.
 
--The original Fortnite IPA (Requires special entitlements only available to Developer accounts to to run : **Increased Memory Limit** as well as **Extended Virtual Adressing**)
+#### Included IPAs:
+- **Original Fortnite IPA**  
+  Requires special entitlements only available to Developer accounts, such as:
+  - `com.apple.developer.kernel.increased-memory-limit`
+  - `com.apple.developer.kernel.extended-virtual-addressing`
 
--The patched Fortnite IPA (Doesn't have any requirements, can be sideloaded with free accounts)
+- **Patched Fortnite IPA**  
+  Fully sideloadable with free Apple accounts. No special entitlements required.
 
--The Fall Guys IPA
+- **Fall Guys IPA**  
+  Fully sideloadable with free Apple accounts. No special entitlements required.
 
+> Note: **Rocket League Sideswipe** is not included, as the game remains available on the App Store outside the European Union.
 
-I will not published the Rocket League Sideswipe since the game is avaialble on the App Store outside the european union.
+---
 
-You can also add the source to AltStore and SideStore for ease of use (Unfortunately AltStore and SideStore may not succeed to install some games due to their size mostly especially Fall Guys):
+### 📂 AltStore / SideStore Source
+
+To simplify installation, you can add the following custom source to AltStore or SideStore:
+
+```
 https://raw.githubusercontent.com/ChuteSpyro/EpicGamesIPA/refs/heads/main/UnofficialEpicGamesIPASource.json
+```
+
+> Be aware: due to large file sizes (especially Fall Guys), installation may occasionally fail on AltStore and SideStore.
+
 
 
 ###  Disclaimer
