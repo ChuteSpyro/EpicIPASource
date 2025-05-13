@@ -16,5 +16,12 @@ You can also add the source to AltStore and SideStore for ease of use (Unfortuna
 https://raw.githubusercontent.com/ChuteSpyro/EpicGamesIPA/refs/heads/main/UnofficialEpicGamesIPASource.json
 
 
-# Disclaimer
-The original applications are the property of their respective owners, including but not limited to Epic Games Inc. The modifications provided here are solely for personal use, and the original applications must be legally obtained. Redistribution of these modified versions is done for educational purposes only, and no ownership of the original content is claimed.
+###  Disclaimer
+
+> This project is an independent modification of the Fortnite iOS client. All original assets, code, and intellectual property are owned by Epic Games, Inc.  
+>  
+> The modified files provided are **for educational and research purposes only**. No ownership is claimed over the original software. Users must **already own or have previously downloaded the original Fortnite application through official means** (such as the App Store) before accessing this modified version. This distribution is intended solely for those with legitimate access to the original software.  
+>  
+> By using or distributing these modifications, you agree that they are **not intended for commercial use** and are **provided “as is”, without any warranty**.  
+>  
+> This project is **not affiliated with or endorsed by Epic Games**. If you are a rights holder and believe your content is being misused, please contact us and the material will be promptly removed.
