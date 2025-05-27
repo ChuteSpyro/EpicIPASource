@@ -300,6 +300,15 @@
       "beta": false,
       "versions": [
         {
+          "version": "19.0.0",
+          "date": "2025-05-27T00:00:00.0000000Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/ChuteSpyro/EpicGamesIPA/releases/download/FallGuysUpdate19.0.0/FallGuys_19.0.0.ipa",
+          "size": 2134734848,
+          "minOSVersion": "17.6",
+          "buildVersion": "6349"
+        }, 
+        {
           "version": "18.0.0",
           "date": "2025-04-01T00:00:00.0000000Z",
           "localizedDescription": "",
